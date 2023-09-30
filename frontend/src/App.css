@@ -40,3 +40,25 @@
 .read-the-docs {
   color: #888;
 }
+
+table{
+  width: 100%;
+}
+
+ dialog form{
+ display: flex;
+ flex-direction: column;
+}
+
+dialog{
+  width: 15%;
+}
+
+button{
+  margin-top: 10px;
+  width: 100%;
+}
+
+#btnAddUser{
+  background-color: rgb(232, 152, 94);
+}

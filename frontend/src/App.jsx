@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Layout } from './pages/Layout';
 import { Users } from './pages/Users';
 import { Teachers } from './pages/Teachers'
+import "./App.css"
 
 function App() {
   return (
