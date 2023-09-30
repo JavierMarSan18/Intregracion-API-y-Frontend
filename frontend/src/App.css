@@ -54,6 +54,12 @@ dialog{
   width: 15%;
 }
 
+@media screen and (max-width: 828px){
+  dialog{
+    width: 30%;
+  }
+}
+
 button{
   margin-top: 10px;
   width: 100%;
